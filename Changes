@@ -1,0 +1,9 @@
+Revision history for Perl extension Functional.
+
+0.02  Tue Jun  1 15:05:17 1999
+        - added support for infinite lists
+
+0.01  Mon May 18 17:11:06 1999
+	- first released version
+
+
